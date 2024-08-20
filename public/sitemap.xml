@@ -3,13 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-04-13T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blogs/</loc>
-    <lastmod>2024-04-13T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2024-04-13T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/gsoc/</loc>
+    <lastmod>2024-05-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/gsoc-2024/</loc>
+    <lastmod>2024-05-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogs/guide-proposal-gsoc-tardis-2024/</loc>
+    <lastmod>2024-05-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-05-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blogs/cantor-kdeconnect-hindi-translation-sok-2024/</loc>
     <lastmod>2024-04-13T00:00:00+00:00</lastmod>
@@ -18,9 +30,6 @@
     <lastmod>2024-04-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/sok/</loc>
-    <lastmod>2024-04-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-04-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/translation/</loc>

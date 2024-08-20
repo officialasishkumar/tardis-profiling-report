@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GSoC on Asish Kumar - Student in India</title>
+    <link>http://localhost:1313/tags/gsoc/</link>
+    <description>Recent content in GSoC on Asish Kumar - Student in India</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Copyright 2024, Asish Kumar</copyright>
+    <lastBuildDate>Sat, 25 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/gsoc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guide for GSoC proposal</title>
+      <link>http://localhost:1313/blogs/guide-proposal-gsoc-tardis-2024/</link>
+      <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/guide-proposal-gsoc-tardis-2024/</guid>
+      <description>Hindi Translation of Merkuro - Season of KDE 2024 In this blog, I will discuss my experience with season of KDE 2024.&#xA;I came to know about this program through a youtube video. I was given some pre tasks to complete by the mentors of the project which can be found at https://github.com/officialasishkumar/translation-kde-applications.&#xA;After completing the pre-tasks, I applied for the project and eventually got selected.&#xA;During my SoK period, I have to translate Merkuro, KDE connect, KTorrent and Cantor in Hindi.</description>
+    </item>
+  </channel>
+</rss>
