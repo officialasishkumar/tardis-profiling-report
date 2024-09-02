@@ -12,7 +12,7 @@ copyright = '&copy; Copyright 2024, TARDIS-SN'
     identifier = "profiling-report"
     name = "Profiling"
     title = "Profiling"
-    url = "/profiling-report/"
+    url = "/tardis-profiling-report/"
     weight = -100
 
 [params] 
