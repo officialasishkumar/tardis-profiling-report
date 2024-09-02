@@ -21,9 +21,3 @@ The average of 5 iterations was taken to write these profiling results.
 * [model/geometry/radial1d/@r_inner_active](https://github.com/tardis-sn/tardis/blob/be4ec9a4f9423392bc1aa4a6f3316267faa70093/tardis/model/geometry/radial1d.py#L128) - 0.003652 seconds - 1 calls
 * [model/geometry/radial1d/@r_outer_active](https://github.com/tardis-sn/tardis/blob/be4ec9a4f9423392bc1aa4a6f3316267faa70093/tardis/model/geometry/radial1d.py#L136) - 0.003043 seconds - 1 calls
 * [opacities/opacity_state/@opacity_state_to_numba](https://github.com/tardis-sn/tardis/blob/be4ec9a4f9423392bc1aa4a6f3316267faa70093/tardis/opacities/opacity_state.py#L210) - 0.001976 seconds - 1 calls
-
-
-Here is the breakdown of the `run_final` function according to the number of calls:
-
-* [util/base/@update_packet_pbar](https://github.com/tardis-sn/tardis/blob/be4ec9a4f9423392bc1aa4a6f3316267faa70093/tardis/util/base.py#L662) - 100000 calls - 0.1052 seconds
-* []
