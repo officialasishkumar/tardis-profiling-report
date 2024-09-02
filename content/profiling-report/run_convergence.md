@@ -1,6 +1,6 @@
 ---
 title: "Profile run_convergence function"
-date: 2024-08-20
+date: 2024-09-02
 categories:
 - GSoC 2024
 ---
@@ -29,3 +29,11 @@ The average of 5 iterations was taken to write these profiling results.
 Here is the overall breakdown according to the cumulative time the other function takes when r packet tracking is enabled:
 
 * [simulation/base/Simulation/@iterate](https://github.com/tardis-sn/tardis/blob/be4ec9a4f9423392bc1aa4a6f3316267faa70093/tardis/simulation/base.py#L449) - 65.11 seconds - 19 calls
+* [transport/montecarlo/base/MonteCarloTransportSolver/@run](https://github.com/tardis-sn/tardis/blob/be4ec9a4f9423392bc1aa4a6f3316267faa70093/tardis/transport/montecarlo/base.py#L147) - 58.08 seconds - 19 calls
+* [simulation/base/Simulation/@run_convergence](https://github.com/tardis-sn/tardis/blob/be4ec9a4f9423392bc1aa4a6f3316267faa70093/tardis/simulation/base.py#L524) - 23.3 seconds - 2/1 calls
+* [transport/montecarlo/packet_trackers/@rpacket_trackers_to_dataframe](https://github.com/tardis-sn/tardis/blob/be4ec9a4f9423392bc1aa4a6f3316267faa70093/tardis/transport/montecarlo/packet_trackers.py#L166) - 16.64 seconds - 19 calls
+* [transport/montecarlo/base/MonteCarloTransportSolver/@initialize_transport_state](https://github.com/tardis-sn/tardis/blob/be4ec9a4f9423392bc1aa4a6f3316267faa70093/tardis/transport/montecarlo/base.py#L97) - 2.446 seconds - 19 calls
+* [opacities/opacity_state/@opacity_state_to_numba](https://github.com/tardis-sn/tardis/blob/be4ec9a4f9423392bc1aa4a6f3316267faa70093/tardis/opacities/opacity_state.py#L210) - 2.285 seconds - 19 calls
+* [transport/montecarlo/packet_source/BasePacketSource/@create_packets](https://github.com/tardis-sn/tardis/blob/be4ec9a4f9423392bc1aa4a6f3316267faa70093/tardis/transport/montecarlo/packet_source.py#L59) - 1.595 seconds - 19 calls
+* [simulation/base/Simulation/@advance_state](https://github.com/tardis-sn/tardis/blob/be4ec9a4f9423392bc1aa4a6f3316267faa70093/tardis/simulation/base.py#L274) - 1.264 seconds - 19 calls
+* []
