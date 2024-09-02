@@ -5,7 +5,7 @@ categories:
 - GSoC 2024
 ---
 
-The `run_tardis` function in total takes 64.94 seconds when ran on [tardis_example.yml](https://raw.githubusercontent.com/tardis-sn/tardis/master/docs/tardis_example.yml). Here is the overall breakdown according to the cumulative time the other function takes: 
+The `run_tardis` function in total takes 64.94 seconds when ran on [tardis_example.yml](https://raw.githubusercontent.com/tardis-sn/tardis/master/docs/tardis_example.yml) without GPU. Here is the overall breakdown according to the cumulative time the other function takes: 
 
 The average of 5 iterations was taken to write these profiling results. 
 
