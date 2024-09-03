@@ -1,4 +1,4 @@
-baseURL = "https://officialasishkumar.github.io/tardis-profiling-report/"
+baseURL = "https://officialasishkumar.github.io/tardis-profiling-report"
 languageCode = 'en-us'
 title = 'TARDIS-SN Profiling Report'
 theme = 'devise'
