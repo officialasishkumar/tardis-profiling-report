@@ -7,14 +7,6 @@ relativeURLs = true
 enableRobotsTXT = true
 copyright = '&copy; Copyright 2024, TARDIS-SN'
 
-[menu]
-  [[menu.main]]
-    identifier = "profiling-report"
-    name = "Profiling"
-    title = "Profiling"
-    url = ""
-    weight = -100
-
 [params] 
     header_title = "TARDIS-SN"
     header_subtitle = "Author: Asish Kumar"
