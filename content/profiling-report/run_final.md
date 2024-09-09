@@ -2,7 +2,7 @@
 title: "Profile simulation/base/@run_final function"
 date: 2024-08-31
 categories:
-* GSoC 2024
+- GSoC 2024
 ---
 
 The `run_final` function in total takes 6.811 seconds when ran on [tardis_example.yml](https://raw.githubusercontent.com/tardis-sn/tardis/master/docs/tardis_example.yml) without GPU. Here is the overall breakdown according to the cumulative time the other function takes: 
