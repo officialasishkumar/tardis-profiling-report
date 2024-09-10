@@ -12,4 +12,4 @@ The average of 5 iterations was taken to write these profiling results.
 
 | Function | Time (seconds) | Calls |
 |----------|----------------|-------|
-| [transport/montecarlo/MonteCarloTransportSolver/@initialize_transport_state](https://github.com/tardis-sn/tardis/blob/260207cb7cee6829390d77fbf48de53843818f09/tardis/transport/montecarlo/base.py#L97) | 0.02295 | 1 |
+| [transport/montecarlo/MonteCarloTransportSolver/@initialize_transport_state](https://github.com/tardis-sn/tardis/blob/260207cb7cee6829390d77fbf48de53843818f09/tardis/transport/montecarlo/base.py#L97) | 0.02295 | 1 |   
