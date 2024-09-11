@@ -9,7 +9,6 @@ The `assemble_plasma` function in total takes 2.773 seconds when ran on [tardis_
 
 The average of 5 iterations was taken to write these profiling results. 
 
-
 | Function | Time (seconds) | Calls |
 |----------|----------------|-------|
 | [plasma/assembly/legacy_assembly/assemble_plasma](https://github.com/tardis-sn/tardis/blob/b08981d7bb6bb7955e285ea8973361e3874079a2/tardis/plasma/assembly/legacy_assembly.py#L5) | 2.773 | 1 |
