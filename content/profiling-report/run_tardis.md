@@ -20,7 +20,7 @@ The average of 5 iterations was taken to write these profiling results.
 | [plasma/base/@update](https://github.com/tardis-sn/tardis/blob/b08981d7bb6bb7955e285ea8973361e3874079a2/tardis/plasma/base.py#L183) | 2.758 | 21 |
 | [plasma/properties/base/@update](https://github.com/tardis-sn/tardis/blob/b08981d7bb6bb7955e285ea8973361e3874079a2/tardis/plasma/properties/base.py#L98) | 2.741 | 329 |
 | [opacities/opacity_state/@opacity_state_to_numba](https://github.com/tardis-sn/tardis/blob/b08981d7bb6bb7955e285ea8973361e3874079a2/tardis/opacities/opacity_state.py#L210) | 2.212 | 20 |
-| [assemble_plasma](https://github.com/tardis-sn/tardis/blob/b08981d7bb6bb7955e285ea8973361e3874079a2/tardis/plasma/assembly/legacy_assembly.py#L5) | 2.162 | 1 |
+| [plasma/assembly/legacy_assembly/assemble_plasma](https://github.com/tardis-sn/tardis/blob/b08981d7bb6bb7955e285ea8973361e3874079a2/tardis/plasma/assembly/legacy_assembly.py#L5) | 2.162 | 1 |
 | [transport/montecarlo/numba_interface/@opacity_state_initialize](https://github.com/tardis-sn/tardis/blob/b08981d7bb6bb7955e285ea8973361e3874079a2/tardis/transport/montecarlo/numba_interface.py#L151) | 2.161 | 1 |
 | [spectrum/formal_integral/@__init__](https://github.com/tardis-sn/tardis/blob/b08981d7bb6bb7955e285ea8973361e3874079a2/tardis/spectrum/formal_integral.py#L280) | 2.160 | 1 |
 | [plasma/assembly/base/@assemble](https://github.com/tardis-sn/tardis/blob/b08981d7bb6bb7955e285ea8973361e3874079a2/tardis/plasma/assembly/base.py#L587) | 2.094 | 1 |
