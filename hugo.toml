@@ -1,4 +1,4 @@
-baseURL = "https://officialasishkumar.github.io/tardis-profiling-report"
+baseURL = "https://officialasishkumar.github.io"
 languageCode = 'en-us'
 title = 'TARDIS-SN Profiling Report'
 theme = 'devise'
@@ -10,7 +10,7 @@ copyright = '&copy; Copyright 2024, TARDIS-SN'
 [params] 
     header_title = "TARDIS-SN"
     header_subtitle = "Author: Asish Kumar"
-    [params.style]                             # CSS style overrides
+    [params.style]
         backgroundColor = '#131418'
         homeImageBorderColor = '#ffffff'
         fontFamilyBase = 'Roboto' 
