@@ -10,7 +10,7 @@ The `advance_state` function in total takes 0.06935 seconds when ran on [tardis_
 The average of 5 iterations was taken to write these profiling results. 
 
 
-| Function | Time (seconds) | Calls | 
+| Function | Time (seconds) | Calls |
 |----------|----------------|-------|
 | [simulation/base/Simulation/@advance_state](https://github.com/tardis-sn/tardis/blob/be4ec9a4f9423392bc1aa4a6f3316267faa70093/tardis/simulation/base.py#L274) | 0.06935 | 1 |
 | [plasma/base/BasePlasma/@update](https://github.com/tardis-sn/tardis/blob/be4ec9a4f9423392bc1aa4a6f3316267faa70093/tardis/plasma/base.py#L183) | 0.03575 | 1 |
