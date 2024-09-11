@@ -43,7 +43,5 @@ The average of 5 iterations was taken to write these profiling results.
 | [opacities/marco_atom/transition_probabilities](https://github.com/tardis-sn/tardis/blob/b08981d7bb6bb7955e285ea8973361e3874079a2/tardis/opacities/macro_atom/transition_probabilities.py) | 0.2339 | 1 |
 | [transport/montecarlo/estimators/mc_rad_field_solve/@solve](https://github.com/tardis-sn/tardis/blob/b08981d7bb6bb7955e285ea8973361e3874079a2/tardis/transport/montecarlo/estimators/mc_rad_field_solver.py#L30) | 0.2304 | 19 |
 
-<br>
-
 
 
